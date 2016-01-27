@@ -15,7 +15,7 @@
   <preference name="android-minSdkVersion" value="16"/>
   <preference name="BackupWebStorage" value="none"/>
   <plugin name="com.phonegap.plugins.pushplugin" spec="2.5.0" source="pgb" />
-  <plugin name="com.and.cordova.plugin.local-notification" spec="0.8.3" source="pgb" />
+  <plugin name="de.appplant.cordova.plugin.local-notification" spec="0.8.1" source="pgb" />
   <feature name="StatusBar">
     <param name="ios-package" value="CDVStatusBar" onload="true"/>
   </feature>

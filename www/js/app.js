@@ -39,8 +39,8 @@ angular.module('starter', ['ionic','ngCordova','ionic.service.core','ionic.servi
 
         // Metadata
         angular.extend(user, {
-            name: 'Simon',
-            bio: 'Author of Devdactic'
+            name: 'Aman Kothari',
+            bio: 'Ms crm Developer'
         });
 
         // Identify your user with the Ionic User Service

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="com.ionicframework.io130080" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-  <preference name="phonegap-version" value="3.5.0" />
+  <preference name="phonegap-version" value="3.7.0" />
   <name>io</name>
   <description>
         An Ionic Framework and Cordova project.
